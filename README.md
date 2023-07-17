@@ -1,15 +1,5 @@
-# NodeJS-File-Upload-AWS-S3-Bucket
+s3 upload a file
 
-NodeJS-File-Upload-AWS-S3-Bucket
+npm install 
+npm run start
 
-
-
-#### Run Application
-
-Install NodeJS LTS Version
-
-$ npm install
-
-$ node index.js
-
-$ curl http://localhost:3000
